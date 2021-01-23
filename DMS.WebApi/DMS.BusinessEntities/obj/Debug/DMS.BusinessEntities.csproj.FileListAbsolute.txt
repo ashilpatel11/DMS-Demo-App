@@ -1,0 +1,6 @@
+D:\DMS\DMS.WebApi\DMS.BusinessEntities\bin\Debug\DMS.BusinessEntities.dll
+D:\DMS\DMS.WebApi\DMS.BusinessEntities\bin\Debug\DMS.BusinessEntities.pdb
+D:\DMS\DMS.WebApi\DMS.BusinessEntities\obj\Debug\DMS.BusinessEntities.csprojAssemblyReference.cache
+D:\DMS\DMS.WebApi\DMS.BusinessEntities\obj\Debug\DMS.BusinessEntities.csproj.CoreCompileInputs.cache
+D:\DMS\DMS.WebApi\DMS.BusinessEntities\obj\Debug\DMS.BusinessEntities.dll
+D:\DMS\DMS.WebApi\DMS.BusinessEntities\obj\Debug\DMS.BusinessEntities.pdb

@@ -1,0 +1,10 @@
+D:\Mauli Shah\.NET\ALL\DMS\DMS.BusinessModel\bin\Debug\DMS.BusinessModel.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.BusinessModel\bin\Debug\DMS.BusinessModel.pdb
+D:\Mauli Shah\.NET\ALL\DMS\DMS.BusinessModel\obj\Debug\DMS.BusinessModel.csprojResolveAssemblyReference.cache
+D:\Mauli Shah\.NET\ALL\DMS\DMS.BusinessModel\obj\Debug\DMS.BusinessModel.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.BusinessModel\obj\Debug\DMS.BusinessModel.pdb
+D:\Mauli Shah\.NET\ALL\DMS\DMS.BusinessModel\bin\Debug\DMS.BusinessModel.dll.config
+D:\Mauli Shah\.NET\ALL\DMS\DMS.BusinessModel\bin\Debug\EntityFramework.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.BusinessModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.BusinessModel\bin\Debug\EntityFramework.xml
+D:\Mauli Shah\.NET\ALL\DMS\DMS.BusinessModel\bin\Debug\EntityFramework.SqlServer.xml

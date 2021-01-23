@@ -1,0 +1,10 @@
+D:\Mauli Shah\.NET\ALL\DMS\DMS.BusinessEntities\bin\Debug\DMS.BusinessEntities.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.BusinessEntities\bin\Debug\DMS.BusinessEntities.pdb
+D:\Mauli Shah\.NET\ALL\DMS\DMS.BusinessEntities\obj\Debug\DMS.BusinessEntities.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.BusinessEntities\obj\Debug\DMS.BusinessEntities.pdb
+D:\Mauli Shah\.NET\ALL\DMS\DMS.BusinessEntities\bin\Debug\DMS.BusinessEntities.dll.config
+D:\Mauli Shah\.NET\ALL\DMS\DMS.BusinessEntities\bin\Debug\EntityFramework.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.BusinessEntities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.BusinessEntities\bin\Debug\EntityFramework.xml
+D:\Mauli Shah\.NET\ALL\DMS\DMS.BusinessEntities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mauli Shah\.NET\ALL\DMS\DMS.BusinessEntities\obj\Debug\DMS.BusinessEntities.csprojResolveAssemblyReference.cache

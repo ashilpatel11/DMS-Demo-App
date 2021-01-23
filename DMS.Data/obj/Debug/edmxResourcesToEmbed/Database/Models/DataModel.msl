@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="tblCustomers">
+      <EntityTypeMapping TypeName="Model.tblCustomer">
+        <MappingFragment StoreEntitySet="tblCustomers">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="cName" ColumnName="cName" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="createdBy" ColumnName="createdBy" />
+          <ScalarProperty Name="createdDate" ColumnName="createdDate" />
+          <ScalarProperty Name="modifiedBy" ColumnName="modifiedBy" />
+          <ScalarProperty Name="modifiedDate" ColumnName="modifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblDealers">
+      <EntityTypeMapping TypeName="Model.tblDealer">
+        <MappingFragment StoreEntitySet="tblDealer">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="dName" ColumnName="dName" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="createdBy" ColumnName="createdBy" />
+          <ScalarProperty Name="createdDate" ColumnName="createdDate" />
+          <ScalarProperty Name="modifiedBy" ColumnName="modifiedBy" />
+          <ScalarProperty Name="modifiedDate" ColumnName="modifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblVehicles">
+      <EntityTypeMapping TypeName="Model.tblVehicle">
+        <MappingFragment StoreEntitySet="tblVehicle">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="vName" ColumnName="vName" />
+          <ScalarProperty Name="customerId" ColumnName="customerId" />
+          <ScalarProperty Name="createdBy" ColumnName="createdBy" />
+          <ScalarProperty Name="createdDate" ColumnName="createdDate" />
+          <ScalarProperty Name="modifiedBy" ColumnName="modifiedBy" />
+          <ScalarProperty Name="modifiedDate" ColumnName="modifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,4 @@
+D:\WEB_API_DI_Training\DMS\DMS.WebApi\DMS.BusinessEntities\bin\Release\DMS.BusinessEntities.dll
+D:\WEB_API_DI_Training\DMS\DMS.WebApi\DMS.BusinessEntities\bin\Release\DMS.BusinessEntities.pdb
+D:\WEB_API_DI_Training\DMS\DMS.WebApi\DMS.BusinessEntities\obj\Release\DMS.BusinessEntities.dll
+D:\WEB_API_DI_Training\DMS\DMS.WebApi\DMS.BusinessEntities\obj\Release\DMS.BusinessEntities.pdb

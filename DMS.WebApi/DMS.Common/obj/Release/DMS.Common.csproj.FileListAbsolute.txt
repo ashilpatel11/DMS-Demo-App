@@ -1,0 +1,5 @@
+D:\WEB_API_DI_Training\DMS\DMS.WebApi\DMS.Common\bin\Release\DMS.Common.dll
+D:\WEB_API_DI_Training\DMS\DMS.WebApi\DMS.Common\bin\Release\DMS.Common.pdb
+D:\WEB_API_DI_Training\DMS\DMS.WebApi\DMS.Common\obj\Release\DMS.Common.csprojResolveAssemblyReference.cache
+D:\WEB_API_DI_Training\DMS\DMS.WebApi\DMS.Common\obj\Release\DMS.Common.dll
+D:\WEB_API_DI_Training\DMS\DMS.WebApi\DMS.Common\obj\Release\DMS.Common.pdb

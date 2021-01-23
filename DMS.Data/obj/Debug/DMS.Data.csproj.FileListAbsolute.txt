@@ -1,0 +1,25 @@
+D:\Mauli Shah\.NET\ALL\DMS\DMS.Data\bin\Debug\DMS.Data.dll.config
+D:\Mauli Shah\.NET\ALL\DMS\DMS.Data\bin\Debug\DMS.Data.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.Data\bin\Debug\DMS.Data.pdb
+D:\Mauli Shah\.NET\ALL\DMS\DMS.Data\bin\Debug\DMS.BusinessEntities.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.Data\bin\Debug\EntityFramework.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.Data\bin\Debug\DMS.BusinessEntities.pdb
+D:\Mauli Shah\.NET\ALL\DMS\DMS.Data\bin\Debug\EntityFramework.xml
+D:\Mauli Shah\.NET\ALL\DMS\DMS.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mauli Shah\.NET\ALL\DMS\DMS.Data\obj\Debug\DMS.Data.csprojResolveAssemblyReference.cache
+D:\Mauli Shah\.NET\ALL\DMS\DMS.Data\obj\Debug\DMS.Data.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.Data\obj\Debug\DMS.Data.pdb
+D:\Mauli Shah\.NET\ALL\DMS\DMS.Data\bin\Debug\DMS.BusinessEntities.dll.config
+D:\DMS\DMS.Data\bin\Debug\DMS.Data.dll.config
+D:\DMS\DMS.Data\bin\Debug\DMS.Data.dll
+D:\DMS\DMS.Data\bin\Debug\DMS.Data.pdb
+D:\DMS\DMS.Data\bin\Debug\DMS.BusinessEntities.dll
+D:\DMS\DMS.Data\bin\Debug\EntityFramework.dll
+D:\DMS\DMS.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\DMS\DMS.Data\bin\Debug\DMS.BusinessEntities.pdb
+D:\DMS\DMS.Data\bin\Debug\EntityFramework.xml
+D:\DMS\DMS.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\DMS\DMS.Data\obj\Debug\DMS.Data.csprojResolveAssemblyReference.cache
+D:\DMS\DMS.Data\obj\Debug\DMS.Data.dll
+D:\DMS\DMS.Data\obj\Debug\DMS.Data.pdb

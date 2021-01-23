@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="tblCustomers">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" />
+          <Property Name="cName" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="password" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="createdBy" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="createdDate" Type="date" Nullable="false" />
+          <Property Name="modifiedBy" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="modifiedDate" Type="date" Nullable="false" />
+        </EntityType>
+        <EntityType Name="tblDealer">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="dName" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="password" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="createdBy" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="createdDate" Type="date" Nullable="false" />
+          <Property Name="modifiedBy" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="modifiedDate" Type="date" Nullable="false" />
+        </EntityType>
+        <EntityType Name="tblVehicle">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="vName" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="customerId" Type="int" Nullable="false" />
+          <Property Name="createdBy" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="createdDate" Type="date" Nullable="false" />
+          <Property Name="modifiedBy" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="modifiedDate" Type="date" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_tblVehicle_tblVehicle1">
+          <End Role="tblCustomers" Type="Self.tblCustomers" Multiplicity="1" />
+          <End Role="tblVehicle" Type="Self.tblVehicle" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="tblCustomers">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="tblVehicle">
+              <PropertyRef Name="customerId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="ModelStoreContainer">
+          <EntitySet Name="tblCustomers" EntityType="Self.tblCustomers" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tblDealer" EntityType="Self.tblDealer" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tblVehicle" EntityType="Self.tblVehicle" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_tblVehicle_tblVehicle1" Association="Self.FK_tblVehicle_tblVehicle1">
+            <End Role="tblCustomers" EntitySet="tblCustomers" />
+            <End Role="tblVehicle" EntitySet="tblVehicle" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="tblCustomer">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" />
+          <Property Name="cName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="createdBy" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="createdDate" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="modifiedBy" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="modifiedDate" Type="DateTime" Nullable="false" Precision="0" />
+          <NavigationProperty Name="tblVehicles" Relationship="Self.FK_tblVehicle_tblVehicle1" FromRole="tblCustomers" ToRole="tblVehicle" />
+        </EntityType>
+        <EntityType Name="tblDealer">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="dName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="createdBy" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="createdDate" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="modifiedBy" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="modifiedDate" Type="DateTime" Nullable="false" Precision="0" />
+        </EntityType>
+        <EntityType Name="tblVehicle">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="vName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="customerId" Type="Int32" Nullable="false" />
+          <Property Name="createdBy" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="createdDate" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="modifiedBy" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="modifiedDate" Type="DateTime" Nullable="false" Precision="0" />
+          <NavigationProperty Name="tblCustomer" Relationship="Self.FK_tblVehicle_tblVehicle1" FromRole="tblVehicle" ToRole="tblCustomers" />
+        </EntityType>
+        <Association Name="FK_tblVehicle_tblVehicle1">
+          <End Role="tblCustomers" Type="Self.tblCustomer" Multiplicity="1" />
+          <End Role="tblVehicle" Type="Self.tblVehicle" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="tblCustomers">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="tblVehicle">
+              <PropertyRef Name="customerId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="tblCustomers" EntityType="Self.tblCustomer" />
+          <EntitySet Name="tblDealers" EntityType="Self.tblDealer" />
+          <EntitySet Name="tblVehicles" EntityType="Self.tblVehicle" />
+          <AssociationSet Name="FK_tblVehicle_tblVehicle1" Association="Self.FK_tblVehicle_tblVehicle1">
+            <End Role="tblCustomers" EntitySet="tblCustomers" />
+            <End Role="tblVehicle" EntitySet="tblVehicles" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="Entities">
+          <EntitySetMapping Name="tblCustomers">
+            <EntityTypeMapping TypeName="Model.tblCustomer">
+              <MappingFragment StoreEntitySet="tblCustomers">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="cName" ColumnName="cName" />
+                <ScalarProperty Name="password" ColumnName="password" />
+                <ScalarProperty Name="createdBy" ColumnName="createdBy" />
+                <ScalarProperty Name="createdDate" ColumnName="createdDate" />
+                <ScalarProperty Name="modifiedBy" ColumnName="modifiedBy" />
+                <ScalarProperty Name="modifiedDate" ColumnName="modifiedDate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tblDealers">
+            <EntityTypeMapping TypeName="Model.tblDealer">
+              <MappingFragment StoreEntitySet="tblDealer">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="dName" ColumnName="dName" />
+                <ScalarProperty Name="password" ColumnName="password" />
+                <ScalarProperty Name="createdBy" ColumnName="createdBy" />
+                <ScalarProperty Name="createdDate" ColumnName="createdDate" />
+                <ScalarProperty Name="modifiedBy" ColumnName="modifiedBy" />
+                <ScalarProperty Name="modifiedDate" ColumnName="modifiedDate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tblVehicles">
+            <EntityTypeMapping TypeName="Model.tblVehicle">
+              <MappingFragment StoreEntitySet="tblVehicle">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="vName" ColumnName="vName" />
+                <ScalarProperty Name="customerId" ColumnName="customerId" />
+                <ScalarProperty Name="createdBy" ColumnName="createdBy" />
+                <ScalarProperty Name="createdDate" ColumnName="createdDate" />
+                <ScalarProperty Name="modifiedBy" ColumnName="modifiedBy" />
+                <ScalarProperty Name="modifiedDate" ColumnName="modifiedDate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

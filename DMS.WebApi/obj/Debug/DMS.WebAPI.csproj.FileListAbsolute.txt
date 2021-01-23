@@ -1,0 +1,201 @@
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\obj\Debug\DMS.WebAPI.csprojResolveAssemblyReference.cache
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\DMS.WebAPI.dll.config
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\DMS.WebAPI.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\DMS.WebAPI.pdb
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\csc.exe
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\csc.exe.config
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\csc.rsp
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\csi.exe
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\csi.exe.config
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\csi.rsp
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.AppContext.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.Console.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.IO.Compression.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.IO.Pipes.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.Security.AccessControl.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.Security.Claims.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.ValueTuple.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.Xml.XPath.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\vbc.exe
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\vbc.exe.config
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\vbc.rsp
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\VBCSCompiler.exe
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\Antlr3.Runtime.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\DMS.Business.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\DMS.BusinessEntities.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\DMS.Common.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\Newtonsoft.Json.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Net.Http.Formatting.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Web.Helpers.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Web.Http.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Web.Http.WebHost.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Web.Mvc.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Web.Optimization.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Web.Razor.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Web.WebPages.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\Unity.Abstractions.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\Unity.Container.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\Unity.WebApi.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\WebGrease.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\DMS.Data.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\EntityFramework.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\DMS.BusinessEntities.pdb
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\DMS.Business.pdb
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\DMS.Common.pdb
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Net.Http.Formatting.xml
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Web.Http.xml
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\Newtonsoft.Json.xml
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Web.Helpers.xml
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Web.Http.WebHost.xml
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Web.Mvc.xml
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Web.Optimization.xml
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Web.Razor.xml
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Web.WebPages.xml
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\Unity.Abstractions.pdb
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\Unity.Container.pdb
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\Antlr3.Runtime.pdb
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\DMS.Data.pdb
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\DMS.Data.dll.config
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\EntityFramework.xml
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\obj\Debug\DMS.WebAPI.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\obj\Debug\DMS.WebAPI.pdb
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\EntityFramework.SqlServer.dll
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\DMS.BusinessEntities.dll.config
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\DMS.Common.dll.config
+D:\Mauli Shah\.NET\ALL\DMS\DMS.WebAPI\bin\EntityFramework.SqlServer.xml
+D:\DMS\DMS.WebAPI\bin\DMS.WebAPI.dll.config
+D:\DMS\DMS.WebAPI\bin\DMS.WebAPI.dll
+D:\DMS\DMS.WebAPI\bin\DMS.WebAPI.pdb
+D:\DMS\DMS.WebAPI\bin\roslyn\csc.exe
+D:\DMS\DMS.WebAPI\bin\roslyn\csc.exe.config
+D:\DMS\DMS.WebAPI\bin\roslyn\csc.rsp
+D:\DMS\DMS.WebAPI\bin\roslyn\csi.exe
+D:\DMS\DMS.WebAPI\bin\roslyn\csi.exe.config
+D:\DMS\DMS.WebAPI\bin\roslyn\csi.rsp
+D:\DMS\DMS.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DMS\DMS.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DMS\DMS.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DMS\DMS.WebAPI\bin\roslyn\System.AppContext.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.Console.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.IO.Compression.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.IO.Pipes.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.Security.AccessControl.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.Security.Claims.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.ValueTuple.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.Xml.XPath.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DMS\DMS.WebAPI\bin\roslyn\vbc.exe
+D:\DMS\DMS.WebAPI\bin\roslyn\vbc.exe.config
+D:\DMS\DMS.WebAPI\bin\roslyn\vbc.rsp
+D:\DMS\DMS.WebAPI\bin\roslyn\VBCSCompiler.exe
+D:\DMS\DMS.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\DMS\DMS.WebAPI\bin\Antlr3.Runtime.dll
+D:\DMS\DMS.WebAPI\bin\DMS.Business.dll
+D:\DMS\DMS.WebAPI\bin\DMS.BusinessEntities.dll
+D:\DMS\DMS.WebAPI\bin\DMS.Common.dll
+D:\DMS\DMS.WebAPI\bin\EntityFramework.dll
+D:\DMS\DMS.WebAPI\bin\EntityFramework.SqlServer.dll
+D:\DMS\DMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DMS\DMS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\DMS\DMS.WebAPI\bin\Newtonsoft.Json.dll
+D:\DMS\DMS.WebAPI\bin\System.Net.Http.Formatting.dll
+D:\DMS\DMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\DMS\DMS.WebAPI\bin\System.Web.Helpers.dll
+D:\DMS\DMS.WebAPI\bin\System.Web.Http.dll
+D:\DMS\DMS.WebAPI\bin\System.Web.Http.WebHost.dll
+D:\DMS\DMS.WebAPI\bin\System.Web.Mvc.dll
+D:\DMS\DMS.WebAPI\bin\System.Web.Optimization.dll
+D:\DMS\DMS.WebAPI\bin\System.Web.Razor.dll
+D:\DMS\DMS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\DMS\DMS.WebAPI\bin\System.Web.WebPages.dll
+D:\DMS\DMS.WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\DMS\DMS.WebAPI\bin\Unity.Abstractions.dll
+D:\DMS\DMS.WebAPI\bin\Unity.Container.dll
+D:\DMS\DMS.WebAPI\bin\Unity.WebApi.dll
+D:\DMS\DMS.WebAPI\bin\WebGrease.dll
+D:\DMS\DMS.WebAPI\bin\DMS.Data.dll
+D:\DMS\DMS.WebAPI\bin\DMS.BusinessEntities.pdb
+D:\DMS\DMS.WebAPI\bin\DMS.Business.pdb
+D:\DMS\DMS.WebAPI\bin\DMS.Common.pdb
+D:\DMS\DMS.WebAPI\bin\EntityFramework.xml
+D:\DMS\DMS.WebAPI\bin\EntityFramework.SqlServer.xml
+D:\DMS\DMS.WebAPI\bin\System.Net.Http.Formatting.xml
+D:\DMS\DMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\DMS\DMS.WebAPI\bin\System.Web.Http.xml
+D:\DMS\DMS.WebAPI\bin\Newtonsoft.Json.xml
+D:\DMS\DMS.WebAPI\bin\System.Web.Helpers.xml
+D:\DMS\DMS.WebAPI\bin\System.Web.Http.WebHost.xml
+D:\DMS\DMS.WebAPI\bin\System.Web.Mvc.xml
+D:\DMS\DMS.WebAPI\bin\System.Web.Optimization.xml
+D:\DMS\DMS.WebAPI\bin\System.Web.Razor.xml
+D:\DMS\DMS.WebAPI\bin\System.Web.WebPages.xml
+D:\DMS\DMS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\DMS\DMS.WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\DMS\DMS.WebAPI\bin\Unity.Abstractions.pdb
+D:\DMS\DMS.WebAPI\bin\Unity.Container.pdb
+D:\DMS\DMS.WebAPI\bin\Antlr3.Runtime.pdb
+D:\DMS\DMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DMS\DMS.WebAPI\bin\DMS.Data.pdb
+D:\DMS\DMS.WebAPI\obj\Debug\DMS.WebAPI.csprojResolveAssemblyReference.cache
+D:\DMS\DMS.WebAPI\obj\Debug\DMS.WebAPI.dll
+D:\DMS\DMS.WebAPI\obj\Debug\DMS.WebAPI.pdb

@@ -1,0 +1,12 @@
+D:\WEB_API_DI_Training\DMS\DMS.WebApi\DMS.Data\bin\Release\DMS.Data.dll.config
+D:\WEB_API_DI_Training\DMS\DMS.WebApi\DMS.Data\bin\Release\DMS.Data.dll
+D:\WEB_API_DI_Training\DMS\DMS.WebApi\DMS.Data\bin\Release\DMS.Data.pdb
+D:\WEB_API_DI_Training\DMS\DMS.WebApi\DMS.Data\bin\Release\DMS.BusinessEntities.dll
+D:\WEB_API_DI_Training\DMS\DMS.WebApi\DMS.Data\bin\Release\EntityFramework.dll
+D:\WEB_API_DI_Training\DMS\DMS.WebApi\DMS.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\WEB_API_DI_Training\DMS\DMS.WebApi\DMS.Data\bin\Release\DMS.BusinessEntities.pdb
+D:\WEB_API_DI_Training\DMS\DMS.WebApi\DMS.Data\bin\Release\EntityFramework.xml
+D:\WEB_API_DI_Training\DMS\DMS.WebApi\DMS.Data\bin\Release\EntityFramework.SqlServer.xml
+D:\WEB_API_DI_Training\DMS\DMS.WebApi\DMS.Data\obj\Release\DMS.Data.csprojResolveAssemblyReference.cache
+D:\WEB_API_DI_Training\DMS\DMS.WebApi\DMS.Data\obj\Release\DMS.Data.dll
+D:\WEB_API_DI_Training\DMS\DMS.WebApi\DMS.Data\obj\Release\DMS.Data.pdb

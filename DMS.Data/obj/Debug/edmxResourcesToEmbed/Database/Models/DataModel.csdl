@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tblCustomer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="cName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="createdBy" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="createdDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="modifiedBy" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="modifiedDate" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="tblVehicles" Relationship="Self.FK_tblVehicle_tblVehicle1" FromRole="tblCustomers" ToRole="tblVehicle" />
+  </EntityType>
+  <EntityType Name="tblDealer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="dName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="createdBy" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="createdDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="modifiedBy" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="modifiedDate" Type="DateTime" Nullable="false" Precision="0" />
+  </EntityType>
+  <EntityType Name="tblVehicle">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="vName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="customerId" Type="Int32" Nullable="false" />
+    <Property Name="createdBy" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="createdDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="modifiedBy" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="modifiedDate" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="tblCustomer" Relationship="Self.FK_tblVehicle_tblVehicle1" FromRole="tblVehicle" ToRole="tblCustomers" />
+  </EntityType>
+  <Association Name="FK_tblVehicle_tblVehicle1">
+    <End Role="tblCustomers" Type="Self.tblCustomer" Multiplicity="1" />
+    <End Role="tblVehicle" Type="Self.tblVehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblCustomers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="tblVehicle">
+        <PropertyRef Name="customerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tblCustomers" EntityType="Self.tblCustomer" />
+    <EntitySet Name="tblDealers" EntityType="Self.tblDealer" />
+    <EntitySet Name="tblVehicles" EntityType="Self.tblVehicle" />
+    <AssociationSet Name="FK_tblVehicle_tblVehicle1" Association="Self.FK_tblVehicle_tblVehicle1">
+      <End Role="tblCustomers" EntitySet="tblCustomers" />
+      <End Role="tblVehicle" EntitySet="tblVehicles" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
